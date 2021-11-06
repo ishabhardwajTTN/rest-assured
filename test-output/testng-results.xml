@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-06T11:11:32 IST" name="Default suite" finished-at="2021-11-06T11:11:39 IST" duration-ms="6999">
+    <groups>
+    </groups>
+    <test started-at="2021-11-06T11:11:32 IST" name="Default test" finished-at="2021-11-06T11:11:39 IST" duration-ms="6999">
+      <class name="test.GetRequests.GetResuestTests">
+        <test-method signature="getAlbumInvalid()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:32 IST" name="getAlbumInvalid" finished-at="2021-11-06T11:11:34 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlbumInvalid -->
+        <test-method signature="getAlbumTen()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:34 IST" name="getAlbumTen" finished-at="2021-11-06T11:11:35 IST" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAlbumTen -->
+        <test-method signature="getAllPost()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:35 IST" name="getAllPost" finished-at="2021-11-06T11:11:35 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPost -->
+        <test-method signature="getCommentsUnderFirstPost()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:35 IST" name="getCommentsUnderFirstPost" finished-at="2021-11-06T11:11:35 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCommentsUnderFirstPost -->
+        <test-method signature="getFirstPost()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:35 IST" name="getFirstPost" finished-at="2021-11-06T11:11:36 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstPost -->
+        <test-method signature="getFirstPostComment()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:36 IST" name="getFirstPostComment" finished-at="2021-11-06T11:11:36 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstPostComment -->
+        <test-method signature="getFirstPostCommentInvalid()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:36 IST" name="getFirstPostCommentInvalid" finished-at="2021-11-06T11:11:36 IST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFirstPostCommentInvalid -->
+        <test-method signature="getInvalidComment()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:36 IST" name="getInvalidComment" finished-at="2021-11-06T11:11:37 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidComment -->
+        <test-method signature="getInvalidPost()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:37 IST" name="getInvalidPost" finished-at="2021-11-06T11:11:38 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInvalidPost -->
+        <test-method signature="getVeriFyEmailForFifthID()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:38 IST" name="getVeriFyEmailForFifthID" finished-at="2021-11-06T11:11:39 IST" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVeriFyEmailForFifthID -->
+        <test-method signature="getVeriFyIDHundrade()[pri:0, instance:test.GetRequests.GetResuestTests@b62d79]" started-at="2021-11-06T11:11:39 IST" name="getVeriFyIDHundrade" finished-at="2021-11-06T11:11:39 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVeriFyIDHundrade -->
+      </class> <!-- test.GetRequests.GetResuestTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
